@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: 
+Sitemap: https://cold-waters.pmctactical.org/sitemap.xml
